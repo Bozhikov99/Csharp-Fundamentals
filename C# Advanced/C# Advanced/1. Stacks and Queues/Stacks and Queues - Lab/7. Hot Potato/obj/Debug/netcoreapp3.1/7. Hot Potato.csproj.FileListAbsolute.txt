@@ -1,0 +1,12 @@
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.exe
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.deps.json
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.json
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfo.cs
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.genruntimeconfig.cache

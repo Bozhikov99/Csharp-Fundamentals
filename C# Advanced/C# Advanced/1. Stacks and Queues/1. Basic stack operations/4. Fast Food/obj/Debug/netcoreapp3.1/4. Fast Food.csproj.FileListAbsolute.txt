@@ -1,0 +1,13 @@
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.exe
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.deps.json
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.json
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.dev.json
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.dll
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.pdb
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.csprojAssemblyReference.cache
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfoInputs.cache
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfo.cs
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.dll
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.pdb
+C:\Users\W10\source\repos\SoftwareUniversity\C# Advanced\C# Advanced\1. Stacks and Queues\1. Basic stack operations\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.genruntimeconfig.cache
