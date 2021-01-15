@@ -1,2 +1,2 @@
-# Software-University
-Contains my SoftUni solutions
+# Programming Fundamentals with C#
+It contains my solutions from C# Fundamentals September 2020
